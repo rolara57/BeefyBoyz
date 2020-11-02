@@ -16,7 +16,7 @@
 
 If there is one thing that has really blown up in Austin in the last 10 years is the food scene. From Westlake to East Austin, from North to South, in every neighborhood you will find a Food Truck. This application was created for that reason. A user friendly data base that will grow with you.  
 
-# **Table of Content(#table-of-contents)**
+# Table of Content(#table-of-contents)
 
 - [Technologies Used](#Technologies-Used)
 - [Usage](#usage)
