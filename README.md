@@ -11,7 +11,7 @@
 
 ##**link**
 - [GitHub Repo](https://github.com/jasandper/Food-Trucks)
-- [Deployed App](https://atxfoodtruck.herokuapp.com/)ks
+- [Deployed App](https://atxfoodtruck.herokuapp.com/)
 
 #**Motivation**
 
