@@ -1,6 +1,6 @@
 # Food-Trucks
 ## A BEEFY BoyZ Application
-![Screen Shot 2020-10-22 at 7 15 10 PM](https://user-images.githubusercontent.com/60681276/97395198-643e9380-18b2-11eb-97d8-44cadbedf35f.png)
+![Screen Shot 2020-11-02 at 7 52 51 PM](https://user-images.githubusercontent.com/60681276/97937718-0b08b100-1d45-11eb-82f5-8d980729c560.png)
 
 **Your Life just got easier**:
 > Welcome to Food-Trucks
