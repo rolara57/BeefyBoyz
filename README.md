@@ -1,22 +1,19 @@
-# Food-Trucks
+# Food-Truckz
 ## A BEEFY BoyZ Application
 ![Screen Shot 2020-10-22 at 7 15 10 PM](https://user-images.githubusercontent.com/60681276/97395198-643e9380-18b2-11eb-97d8-44cadbedf35f.png)
 
 **Your Life just got easier**:
-> Welcome to Food-Trucks 
+> Welcome to Food-Truckz 
 >the Austin application you have been waiting for.
 <img width="790" alt="Screen Shot 2020-11-02 at 2 38 40 PM" src="https://user-images.githubusercontent.com/60681276/97916790-1c3bc880-1d19-11eb-96f1-e45e00e294f9.png">
 
-
-
-## **link**
- https://github.com/jasandper/Food-Trucks
-
-# **Motivation**
+##**link**
+https://github.com/jasandper/Food-Trucks
+#**Motivation**
 
 If there is one thing that has really blown up in Austin in the last 10 years is the food scene. From Westlake to East Austin, from North to South, in every neighborhood you will find a Food Truck. This application was created for that reason. A user friendly data base that will grow with you.  
 
-# Table of Content
+#**Table of Content(#table-of-contents)**
 
 - [Technologies Used](#Technologies-Used)
 - [Usage](#usage)
@@ -24,7 +21,7 @@ If there is one thing that has really blown up in Austin in the last 10 years is
 - [Contribute](#contribute)
 
 
-# Technologies Used
+## Technologies Used
 * Postgresql
 * Node
 * Express
@@ -37,9 +34,15 @@ If there is one thing that has really blown up in Austin in the last 10 years is
 
 # Usage
 
+A data base that generates food truck locations in ATX. Easily searchable based on type of food truck. Provides location by address and phone number. Allows user to input data and share information not listed with others
 
 
-# Development
+
+# Future Development
+* Allow users to leave feedback and rate food trucks
+* Offer nearby food truck based on users location
+* Add brick and mortar locations
+* Add different cities
 
 
 
@@ -62,3 +65,4 @@ Roger Lara
 https://github.com/rolara57
 
 OTHERS:
+
