@@ -67,6 +67,7 @@ Roger Lara
 https://github.com/rolara57
 
 OTHERS:
+Spiecial Thanks to Chris Deleon for art work
 
 
 
