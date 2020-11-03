@@ -8,7 +8,9 @@
 <img width="790" alt="Screen Shot 2020-11-02 at 2 38 40 PM" src="https://user-images.githubusercontent.com/60681276/97916790-1c3bc880-1d19-11eb-96f1-e45e00e294f9.png">
 
 ##**link**
-https://github.com/jasandper/Food-Trucks
+- [GitHub Repo](https://github.com/jasandper/Food-Trucks)
+- [Deployed App](https://atxfoodtruck.herokuapp.com/)
+
 #**Motivation**
 
 If there is one thing that has really blown up in Austin in the last 10 years is the food scene. From Westlake to East Austin, from North to South, in every neighborhood you will find a Food Truck. Since the pandemic smaller businesses have been affected more then larger ones Drawing attention to small bisiness food trucks is our way of helping our community. This application was created for that reason. A user friendly data base that will grow with you.  
@@ -65,4 +67,5 @@ Roger Lara
 https://github.com/rolara57
 
 OTHERS:
+
 
