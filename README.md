@@ -1,9 +1,9 @@
-# Food-Truckz
+# Food-Trucks
 ## A BEEFY BoyZ Application
 ![Screen Shot 2020-10-22 at 7 15 10 PM](https://user-images.githubusercontent.com/60681276/97395198-643e9380-18b2-11eb-97d8-44cadbedf35f.png)
 
 **Your Life just got easier**:
-> Welcome to Food-Truckz 
+> Welcome to Food-Trucks
 >the Austin application you have been waiting for.
 ![Screen Shot 2020-11-02 at 7 33 06 PM-1](https://user-images.githubusercontent.com/60681276/97936899-a77d8400-1d42-11eb-9265-13665c4d7aef.png)
 
