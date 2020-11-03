@@ -15,7 +15,7 @@
 
 #**Motivation**
 
-If there is one thing that has really blown up in Austin in the last 10 years is the food scene. From Westlake to East Austin, from North to South, in every neighborhood you will find a Food Truck. This application was created for that reason. A user friendly data base that will grow with you.  
+If there is one thing that has really blown up in Austin in the last 10 years is the food scene. From Westlake to East Austin, from North to South, in every neighborhood you will find a Food Truck. Since the pandemic smaller businesses have been affected more then larger ones Drawing attention to small bisiness food trucks is our way of helping our community. This application was created for that reason. A user friendly data base that will grow with you. 
 
 #**Table of Content**
 
